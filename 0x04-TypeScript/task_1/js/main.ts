@@ -7,3 +7,4 @@ interface Teacher {
   location: string;                // always defined
   [key: string]: any;              // allows additional properties
 }
+console.log(Teacher);
